@@ -107,3 +107,6 @@
 估計天數：3天
 
 優先性：5
+
+#Burn Down Chart#
+![](http://imgur.com/pIDe3ML)
