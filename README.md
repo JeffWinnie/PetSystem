@@ -109,4 +109,4 @@
 優先性：5
 
 #Burn Down Chart#
-![](http://imgur.com/pIDe3ML)
+![](http://i.imgur.com/pIDe3ML.jpg)
